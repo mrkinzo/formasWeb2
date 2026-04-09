@@ -1,0 +1,15 @@
+.pent {
+
+  width: 1000;
+  height: 1000px;
+  background-color: #3498db;
+  /* clip-path: polygon(X1 Y1, X2 Y2, X3 Y3, X4 Y4, X5 Y5) */
+  clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);
+
+}
+.container {
+  text-align: center;
+}
+img {
+  display: inline-block;
+}
